@@ -1,3 +1,3 @@
 # feedback
-Repository for discuss things with others and answers on their uestions.
+Repository for discuss things with others and answers on their questions.
 
